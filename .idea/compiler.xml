@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Swapping Nodes in a Linked List" />
+        <module name="_338._Counting_Bits" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
