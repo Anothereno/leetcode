@@ -6,6 +6,9 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="_118._Pascals_Triangle" />
+        <module name="_32._Longest_Valid_Parentheses" />
+        <module name="_119._Pascals_Triangle_II" />
         <module name="_338._Counting_Bits" />
       </profile>
     </annotationProcessing>
