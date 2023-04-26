@@ -10,6 +10,7 @@
         <module name="_32._Longest_Valid_Parentheses" />
         <module name="_119._Pascals_Triangle_II" />
         <module name="_338._Counting_Bits" />
+        <module name="_228._Summary_Ranges" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
