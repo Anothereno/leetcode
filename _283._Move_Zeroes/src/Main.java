@@ -5,13 +5,13 @@ public class Main {
 		Solution sol = new Solution();
 		int[] nums;
 		nums = new int[]{0,1,0,3,12};
-		sol.moveZeroes(nums);
+		sol.move(nums);
 		System.out.println(Arrays.toString(nums));
 		nums = new int[]{0};
-		sol.moveZeroes(nums);
+		sol.move(nums);
 		System.out.println(Arrays.toString(nums));
 		nums = new int[]{3,2,1,0,534,3,23,0,0};
-		sol.moveZeroes(nums);
+		sol.move(nums);
 		System.out.println(Arrays.toString(nums));
 	}
 
@@ -42,6 +42,25 @@ public class Main {
 				int tmp = nums[leftPointer];
 				nums[leftPointer] = nums[rightPointer];
 				nums[rightPointer] = tmp;
+			}
+		}
+
+
+		private void move(int[] array) {
+			int nonZeroChIndex = 0;
+			int zeroCh = 0;
+
+			for (int i = 0; i < array.length; i++)
+				if (array[i] == 0)
+					zeroCh++;
+				else {
+					if (nonZeroChIndex != i)
+						array[nonZeroChIndex] = array[i];
+					nonZeroChIndex++;
+				}
+			while (zeroCh != 0) {
+				array[array.length - zeroCh] = 0;
+				zeroCh--;
 			}
 		}
 	}

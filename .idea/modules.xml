@@ -8,11 +8,15 @@
       <module fileurl="file://$PROJECT_DIR$/_102. Binary Tree Level Order Traversal/_102. Binary Tree Level Order Traversal.iml" filepath="$PROJECT_DIR$/_102. Binary Tree Level Order Traversal/_102. Binary Tree Level Order Traversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1137._N-th_Tribonacci_Number/_1137._N-th_Tribonacci_Number.iml" filepath="$PROJECT_DIR$/_1137._N-th_Tribonacci_Number/_1137._N-th_Tribonacci_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/_121. Best Time to Buy and Sell Stock/_121. Best Time to Buy and Sell Stock.iml" filepath="$PROJECT_DIR$/_121. Best Time to Buy and Sell Stock/_121. Best Time to Buy and Sell Stock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_125._Valid_Palindrome/_125._Valid_Palindrome.iml" filepath="$PROJECT_DIR$/_125._Valid_Palindrome/_125._Valid_Palindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1385._Find_the_Distance_Value_Between_Two_Arrays/_1385._Find_the_Distance_Value_Between_Two_Arrays.iml" filepath="$PROJECT_DIR$/_1385._Find_the_Distance_Value_Between_Two_Arrays/_1385._Find_the_Distance_Value_Between_Two_Arrays.iml" />
       <module fileurl="file://$PROJECT_DIR$/_142. Linked List Cycle II/_142. Linked List Cycle II.iml" filepath="$PROJECT_DIR$/_142. Linked List Cycle II/_142. Linked List Cycle II.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_146._LRU_Cache/_146._LRU_Cache.iml" filepath="$PROJECT_DIR$/_146._LRU_Cache/_146._LRU_Cache.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1480_Running_Sum_of_1d_Array/_1480_Running_Sum_of_1d_Array.iml" filepath="$PROJECT_DIR$/_1480_Running_Sum_of_1d_Array/_1480_Running_Sum_of_1d_Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1493._Longest_Subarray_of_1s_After_Deleting_One_Element/_1493._Longest_Subarray_of_1s_After_Deleting_One_Element.iml" filepath="$PROJECT_DIR$/_1493._Longest_Subarray_of_1s_After_Deleting_One_Element/_1493._Longest_Subarray_of_1s_After_Deleting_One_Element.iml" />
       <module fileurl="file://$PROJECT_DIR$/_19._Remove_Nth_Node_From_End_of_List/_19._Remove_Nth_Node_From_End_of_List.iml" filepath="$PROJECT_DIR$/_19._Remove_Nth_Node_From_End_of_List/_19._Remove_Nth_Node_From_End_of_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/_198._House_Robber/_198._House_Robber.iml" filepath="$PROJECT_DIR$/_198._House_Robber/_198._House_Robber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_20._Valid_Parentheses/_20._Valid_Parentheses.iml" filepath="$PROJECT_DIR$/_20._Valid_Parentheses/_20._Valid_Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_205._Isomorphic_Strings/_205._Isomorphic_Strings.iml" filepath="$PROJECT_DIR$/_205._Isomorphic_Strings/_205._Isomorphic_Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/_206._Reverse_Linked_List/_206._Reverse_Linked_List.iml" filepath="$PROJECT_DIR$/_206._Reverse_Linked_List/_206._Reverse_Linked_List.iml" />
       <module fileurl="file://$PROJECT_DIR$/_213._House_Robber_II/_213._House_Robber_II.iml" filepath="$PROJECT_DIR$/_213._House_Robber_II/_213._House_Robber_II.iml" />
@@ -41,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/_98. Validate Binary Search Tree/_98. Validate Binary Search Tree.iml" filepath="$PROJECT_DIR$/_98. Validate Binary Search Tree/_98. Validate Binary Search Tree.iml" />
       <module fileurl="file://$PROJECT_DIR$/_994. Rotting Oranges/_994. Rotting Oranges.iml" filepath="$PROJECT_DIR$/_994. Rotting Oranges/_994. Rotting Oranges.iml" />
       <module fileurl="file://$PROJECT_DIR$/leetcode.iml" filepath="$PROJECT_DIR$/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sort/sort.iml" filepath="$PROJECT_DIR$/sort/sort.iml" />
     </modules>
   </component>
 </project>
